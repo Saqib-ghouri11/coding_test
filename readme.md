@@ -1,2 +1,2 @@
 # coding_test
- trandaction compnent built using jdk 17
+ transaction component built using jkd 17
